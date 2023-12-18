@@ -1,1 +1,5 @@
 # GISProjectFall23
+The new Military Intervention Project's (MIP) Dataset, published in 2022 by the Center for Strategic Studies at Tufts, aims to be the new leading comprehensive resource for researchers to examine "all US military interventions since the country's founding, alongside over 200 variables that allow scholars to evaluate theoretical propositions on drivers and outcomes of intervention" (Kushi and Toft, 2022). It builds upon, dissects, and consolidates several other leading comprehensive datasets, aggregates and disaggregates cases where needed, and provides a holistic case universe for each intervention, providing further qualitative context about the interventions in the dataset.
+For this project, I edited and added spatial components to the existing dataset for further editing and visualization in ArcGIS Pro/Online.
+# Source:
+Journal of Conflict Resolution (2023): "Introducing the Military Intervention Project: A New Dataset on US Military Interventions, 1776-2019" MIP Dataset, Center for Strategic Studies at Tufts,  https://sites.tufts.edu/css/mip-research/mip-dataset/ .
